@@ -1,0 +1,1 @@
+Place seabios.bin and vgabios.bin here.
